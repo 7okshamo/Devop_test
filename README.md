@@ -1,5 +1,3 @@
 # Devop_test
 
-hello SuhilMohamed
-
-hi and welcome
+Create New_pro 
